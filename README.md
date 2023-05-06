@@ -1,6 +1,6 @@
-# myappp
+# Flutter Inspiration Ui
 
-A new Flutter project.
+this project gives an inspirational  Minimal touch of Ui
 
 ## Getting Started
 
