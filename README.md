@@ -1,6 +1,8 @@
 # Flutter Inspiration Ui
 
-this project gives an inspirational  Minimal touch of Ui
+this project gives an inspirational  Minimal touch of Ui.
+<img width="1280" alt="Screenshot 2023-05-07 001558" src="https://user-images.githubusercontent.com/109460363/236642229-45cb5ac2-af3e-494f-b28f-d3c90b7e2061.png">
+
 
 ## Getting Started
 
